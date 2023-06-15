@@ -1,1 +1,2 @@
 Sample Text Inserted into Sample.txt by Admin using the Mastr Branch
+Sample Text Inserted by User in a different Branch
